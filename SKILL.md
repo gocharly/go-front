@@ -88,6 +88,8 @@ description: >-
 * [Когнитивная эргономика, минимализм и архитектура фокуса](./references/cognitive-ergonomics-and-minimalism.md) — лимит Миллера (4-7 элементов), правило единого якоря (Single Anchor), прогрессивное раскрытие, чек-лист аудита экрана и запрет эмодзи.
 * [Упрощение кода и организация функций](./references/code-simplification-and-functions.md) — модульность `libs/` против свалки `utils`, именование по действию, разделение бизнес-логики и чек-лист структуры.
 * [Архитектура backend и проектирование API](./references/backend-architecture-and-api.md) — валидация, безопасность, маршрутизация, базы данных, транзакции, секреты и чек-лист проверки backend.
+* [Рельсовый конвейер и система качества (Pipeline & Cookie System)](./references/pipeline-and-reward-engine.md) — 6-фазный State Machine, гейт одобрения пользователя, аудит качества (Cookie System) и защита контекста.
+
 
 ---
 
