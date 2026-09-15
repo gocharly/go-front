@@ -1,0 +1,36 @@
+{
+  "name": "@gocharly/go-front",
+  "version": "1.0.0",
+  "description": "Архитектурный стандарт текстовой инженерии, редактуры и очистки от AI-мусора для AI-агентов",
+  "type": "module",
+  "bin": {
+    "go-front": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "SKILL.md",
+    "README.md",
+    "references",
+    "scripts",
+    "updates"
+  ],
+  "keywords": [
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "text-engineering",
+    "anti-slop",
+    "copywriting",
+    "agent-skill",
+    "go-front"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gocharly/go-front.git"
+  },
+  "author": "gocharly",
+  "license": "MIT"
+}
