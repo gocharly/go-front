@@ -47,6 +47,16 @@
   * **Vue 3**: `npm i @phosphor-icons/vue`
   * **Flutter**: `flutter pub add phosphor_flutter`
 
+### 5. Eva Icons (От команды Akveo)
+* **Репозиторий**: [akveo/eva-icons](https://github.com/akveo/eva-icons) - 8.8k звезд
+* **Лицензия**: MIT.
+* **Особенности**: Пак из 480+ открытых векторных иконок в двух стилях (Outline и Fill). Поддержка SVG, Web Font и встроенных анимаций (zoom, pulse, shake, flip). Отлично подходит для веб-интерфейсов и мобильных приложений (UI Kitten).
+* **Установка под стек**:
+  * **React**: `npm i react-eva-icons` или `npm i eva-icons`
+  * **React Native**: `npm i @eva-design/eva-icons`
+  * **Flutter**: `flutter pub add eva_icons_flutter`
+  * **Статический веб / Ванильный JS**: `npm i eva-icons`
+
 ---
 
 ## 2. Компонентные UI-экосистемы
