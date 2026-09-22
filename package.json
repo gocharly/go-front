@@ -1,6 +1,6 @@
 {
   "name": "@gocharly/go-front",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Архитектурный стандарт текстовой инженерии, редактуры и очистки от AI-мусора для AI-агентов",
   "type": "module",
   "bin": {
